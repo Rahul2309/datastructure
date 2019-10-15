@@ -108,7 +108,7 @@ public class Linked {
 	  l.push(5);
 	  l.push(6);
 	  l.push(54); 
-	  l.delist();
+	 
 	  l.push(98); 
 	  l.push(45); 
 	  l.push(12); 
